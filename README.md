@@ -1,0 +1,1 @@
+# HubertSliwka-regresia_logistyczna-customer_propensity.ipynb
