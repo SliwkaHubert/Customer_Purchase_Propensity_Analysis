@@ -49,6 +49,5 @@ To run the notebook, you’ll need Python 3 and the following libraries:
 2. Ensure all required libraries are installed.
 3. Open and run `customer_propensity_final.ipynb` in Jupyter Notebook or JupyterLab.
 
-## Author
 
 This project analyzes customer behavior in the e-commerce domain and can serve as a foundation for building a scoring model to support marketing campaigns.
