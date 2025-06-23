@@ -1,4 +1,4 @@
-# Customer Purchase Propensity Analysis
+# customer purchase propensity analysis
 
 ## Project Overview
 
